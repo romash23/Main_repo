@@ -1,0 +1,12 @@
+{
+	"folders": [
+		{
+			"path": "../../IDE"
+		},
+		{
+			"name": "test",
+			"path": "../../IDE/test"
+		}
+	],
+	"settings": {}
+}
