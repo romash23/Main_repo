@@ -18,7 +18,6 @@ def game_core_v3(number: int = 1) -> int:
         elif number < predict:
             temp = predict
             predict = predict//2
-    #print(f'Текущее число {number}: количество попыток - {count}')
     return count
 
 def max_attempt_score(game_core_v3) -> int:
