@@ -11,7 +11,7 @@
 ### Описание проекта
 Угадать загаданное комьютером число за минимальное число попыток.
 
-:arrow_up:[к оглавлению](_)
+:arrow_up:[к оглавлению](https://github.com/romash23/roman_maryukov_DTS/tree/main/project_0)
 
 
 ### Какой кейс решаем
@@ -27,7 +27,7 @@
 **Что практикуем**     
 Учимся писать хороший код на python
 
-:arrow_up:[к оглавлению](_)
+:arrow_up:[к оглавлению](https://github.com/romash23/roman_maryukov_DTS/tree/main/project_0)
 
 
 ### Краткая информация о данных
