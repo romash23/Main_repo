@@ -19,7 +19,9 @@ def game_core_v3(number: int = 1) -> int:
             predict = predict//2
     #print(f'Текущее число {number}: количество попыток - {count}')
     return count
-lst = []
-for number in range(1,101):  
-    lst.append(game_core_v3(number))
-print('Максимальное число попыток равно', max(lst))  
+def max_attempt_score(me_core_v3):
+    lst = []
+    for number in range(1,101):  
+        lst.append(game_core_v3(number))
+    #print('Максимальное число попыток равно', max(lst))  
+    return max(lst)
