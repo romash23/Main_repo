@@ -1,4 +1,5 @@
 import numpy as np
+
 def game_core_v3(number: int = 1) -> int:
     """
     Args:
@@ -24,7 +25,7 @@ def max_attempt_score(game_core_v3) -> int:
     lst = []
     for number in range(0,101):  
         lst.append(game_core_v3(number))
-    #print('Максимальное число попыток равно', max(lst))  
+    print('Максимальное число попыток равно', max(lst))  
     return max(lst)
 
 if __name__ == "__main__":
