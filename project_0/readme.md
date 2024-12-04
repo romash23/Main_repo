@@ -41,6 +41,7 @@
 В данном проекте мы будем опираться на два простейших подхода к решению этой задачи, которые были даны оставлены автором модуля. А именно:
 - [Подход 1: Случайное угадывание](https://github.com/romash23/roman_maryukov_DTS/blob/main/project_0/game_v1.py)
 - [Подход 2: Угадывание с коррекцией](https://github.com/romash23/roman_maryukov_DTS/blob/main/project_0/game_v2.py)
+Для решения постановленной задачи была написана функция game_core_v3
 - [Решение поставленной задачи](https://github.com/romash23/roman_maryukov_DTS/blob/main/project_0/game_v3.py)
 
 :arrow_up:[ К оглавлению](https://github.com/romash23/roman_maryukov_DTS/tree/main/project_0#Оглавление)
@@ -49,6 +50,7 @@
 ### Результат
 Для этого была написана функция max_attempt_score, которая считает максимальное число попыток при угадывании программой целого числа от 0 до 100
 Также мы использовали функцию score_game, написанную автором модуля. Она считает за какое количство попыток в среднем за 1000 подходов наш алгоритм угадывает число
+
 [Для того, чтобы увидеть результат работы, нажмите сюда](https://github.com/romash23/roman_maryukov_DTS/blob/main/project_0/game.ipynb)
 
 :arrow_up:[ К оглавлению](https://github.com/romash23/roman_maryukov_DTS/tree/main/project_0#Оглавление)
