@@ -27,14 +27,14 @@
 **Что практикуем**     
 Учимся писать хороший код на python
 
-:arrow_up:[к оглавлению](https://github.com/romash23/roman_maryukov_DTS/tree/main/project_0#Оглавление)
+:arrow_up:[ К оглавлению](https://github.com/romash23/roman_maryukov_DTS/tree/main/project_0#Оглавление)
 
 
 ### Краткая информация о данных
 Данные для вычисления программа получает "случайным" образом, поскольку функция random() в Python используется для генерации псевдослучайных чисел. Функция random.seed() в Python используется для инициализации случайных чисел. По умолчанию генератор случайных чисел использует текущее системное время. Если вы дважды используете одно и то же начальное значение, вы получите один и тот же результат, что означает случайное число дважды.
 Это упрощает оптимизацию кодов, когда для тестирования используются случайные числа. Вывод кода иногда зависит от ввода. Поэтому использование случайных чисел для тестирования алгоритмов может быть проблематичным.
 
-:arrow_up:[к оглавлению](https://github.com/romash23/roman_maryukov_DTS/tree/main/project_0#Оглавление)
+:arrow_up:[ К оглавлению](https://github.com/romash23/roman_maryukov_DTS/tree/main/project_0#Оглавление)
 
 
 ### Этапы работы над проектом
@@ -43,16 +43,16 @@
 - [Подход 2: Угадывание с коррекцией](https://github.com/romash23/roman_maryukov_DTS/blob/main/project_0/game_v2.py)
 - [Решение поставленной задачи](https://github.com/romash23/roman_maryukov_DTS/blob/main/project_0/game_v3.py)
 
-:arrow_up:[к оглавлению](https://github.com/romash23/roman_maryukov_DTS/tree/main/project_0#Оглавление)
+:arrow_up:[ К оглавлению](https://github.com/romash23/roman_maryukov_DTS/tree/main/project_0#Оглавление)
 
 
 ### Результат
 [Для того, чтобы увидеть результат работы, нажмите сюда](https://github.com/romash23/roman_maryukov_DTS/blob/main/project_0/game.ipynb)
 
-:arrow_up:[к оглавлению](https://github.com/romash23/roman_maryukov_DTS/tree/main/project_0#Оглавление)
+:arrow_up:[ К оглавлению](https://github.com/romash23/roman_maryukov_DTS/tree/main/project_0#Оглавление)
 
 
 ### Выводы
 
-:arrow_up:[к оглавлению](https://github.com/romash23/roman_maryukov_DTS/tree/main/project_0#Оглавление)
+:arrow_up:[ К оглавлению](https://github.com/romash23/roman_maryukov_DTS/tree/main/project_0#Оглавление)
 
