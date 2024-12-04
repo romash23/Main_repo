@@ -22,12 +22,10 @@ def game_core_v3(number: int = 1) -> int:
     return count
 
 def max_attempt_score(game_core_v3) -> int:
+    result = 0
     lst = []
     for number in range(0,101):  
         lst.append(game_core_v3(number))
-    print('Максимальное число попыток равно', max(lst))  
-    return max(lst)
-
-if __name__ == "__main__":
-    # RUN
-    max_attempt_score(game_core_v3)
+    result = int(max(lst))      
+    print(f"Максимальное число попыток равно {result}")  
+    return result

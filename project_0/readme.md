@@ -1,4 +1,4 @@
-\\\\\\\\\\\\\\\\\\\\\\# Проект 0. Угадай число
+# Проект 0. Угадай число
 
 ## Оглавление
 [1. Описание проекта](https://github.com/romash23/roman_maryukov_DTS/blob/main/project_0/readme.md#Описание-проекта)  
@@ -53,6 +53,6 @@
 
 
 ### Выводы
-# Я люблю тютю, она  моя любимая и единственная женушка
+
 :arrow_up:[ К оглавлению](https://github.com/romash23/roman_maryukov_DTS/tree/main/project_0#Оглавление)
 
