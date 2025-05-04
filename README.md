@@ -7,3 +7,5 @@
 * [Проект 1. Анализ данных о резюме с Headhunter.ru](https://github.com/romash23/project-1)
 
 * [Проект 2. Анализ вакансий из HeadHunter](https://github.com/romash23/Project-2)
+
+* [Проект 3. EDA + Feature Engineering. Соревнование на Kaggle](https://github.com/romash23/project-3)
