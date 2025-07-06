@@ -9,3 +9,15 @@
 * [Проект 2. Анализ вакансий из HeadHunter](https://github.com/romash23/Project-2)
 
 * [Проект 3. EDA + Feature Engineering. Соревнование на Kaggle](https://github.com/romash23/project-3)
+
+* [Проект 4. Задача классификации](https://github.com/romash23/project-4)
+
+* Проект 5. Заготовка
+
+* Проект 6. Заготовка
+
+## Практические работы:
+
+- [Статистические тесты в контексте EDA](https://github.com/romash23/eda_practice)
+
+- 
