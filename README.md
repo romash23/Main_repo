@@ -20,4 +20,4 @@
 
 - [Статистические тесты в контексте EDA](https://github.com/romash23/eda_practice)
 
-- 
+- [Практикические работы с ML алгоритмами](https://github.com/romash23/ML-practice)
